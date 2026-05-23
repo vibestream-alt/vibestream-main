@@ -1,0 +1,12 @@
+{
+  "name": "vibestream",
+  "version": "1.0.0",
+  "description": "Vibestream - Real-Time Live Streaming Platform mockup",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
